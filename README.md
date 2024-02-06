@@ -16,5 +16,8 @@ Here is the output for Xor.hdl:
 ![image](https://github.com/Ankitamishra9654/nand2tetris-Part1/assets/136074376/7966990e-74f4-48fd-9bf6-f6ab56ce42cb)
 
 
+here is the output for the Mux.hdl:
+![image](https://github.com/Ankitamishra9654/nand2tetris-Part1/assets/136074376/45c3584a-298e-49be-a40f-d829c27cd5f6)
+
 
 this is my assignment for the subject Breadth of Computer Science.
