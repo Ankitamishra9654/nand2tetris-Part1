@@ -31,4 +31,8 @@ fullAdder.hdl
 Add16.hdl
 ![image](https://github.com/Ankitamishra9654/nand2tetris-Part1/assets/136074376/d866bf0c-4b45-4404-804a-9f0bd7d96eac)
 
+
+Inc16.hdl
+![image](https://github.com/Ankitamishra9654/nand2tetris-Part1/assets/136074376/cf0bb4f2-7e4f-4538-a90c-95b43e82091a)
+
 this is my assignment for the subject Breadth of Computer Science.
