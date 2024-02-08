@@ -23,4 +23,8 @@ halfAdder.hdl
 ![image](https://github.com/Ankitamishra9654/nand2tetris-Part1/assets/136074376/cdba45fd-ab44-45ef-ab82-17c56f9d4f29)
 
 
+
+fullAdder.hdl
+![image](https://github.com/Ankitamishra9654/nand2tetris-Part1/assets/136074376/f1fea5c4-61fb-41af-8e5f-d42026836567)
+
 this is my assignment for the subject Breadth of Computer Science.
