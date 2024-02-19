@@ -1,3 +1,8 @@
+OutPut Screen shot for memory.hdl
+
+![image](https://github.com/Ankitamishra9654/nand2tetris-Part1/assets/136074376/70fbf28d-3387-436a-b72c-ce44e4393f65)
+
+
 Here is the output of the file Not.hdl:
 ![image](https://github.com/Ankitamishra9654/nand2tetris-Part1/assets/136074376/e460e74b-34fa-47d9-8688-27c3a4e70ec3)
 
