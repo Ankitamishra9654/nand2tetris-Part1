@@ -1,3 +1,8 @@
+Output of CPU.hdl
+![image](https://github.com/Ankitamishra9654/nand2tetris-Part1/assets/136074376/93e6eb48-cc26-4df7-8dd9-41dd2d4f79c1)
+
+
+
 OutPut Screen shot for memory.hdl
 
 ![image](https://github.com/Ankitamishra9654/nand2tetris-Part1/assets/136074376/70fbf28d-3387-436a-b72c-ce44e4393f65)
