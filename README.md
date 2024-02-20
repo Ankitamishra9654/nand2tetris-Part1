@@ -1,3 +1,8 @@
+OutPut of Comouter.hdl
+![image](https://github.com/Ankitamishra9654/nand2tetris-Part1/assets/136074376/ca8052c7-1320-4118-9a3f-3f882c49ed35)
+
+
+
 Output of CPU.hdl
 ![image](https://github.com/Ankitamishra9654/nand2tetris-Part1/assets/136074376/93e6eb48-cc26-4df7-8dd9-41dd2d4f79c1)
 
