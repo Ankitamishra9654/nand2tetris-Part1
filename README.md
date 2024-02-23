@@ -1,4 +1,8 @@
-OutPut of Comouter.hdl
+output of rectangle
+![image](https://github.com/Ankitamishra9654/nand2tetris-Part1/assets/136074376/1db01303-2538-49a5-afce-8b64fb61e7ed)
+
+
+OutPut of Computer.hdl
 ![image](https://github.com/Ankitamishra9654/nand2tetris-Part1/assets/136074376/ca8052c7-1320-4118-9a3f-3f882c49ed35)
 
 
