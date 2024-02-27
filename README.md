@@ -1,3 +1,7 @@
+output of pong.asm
+![image](https://github.com/Ankitamishra9654/nand2tetris-Part1/assets/136074376/54b03027-bed0-4487-bdd4-2172ed65db18)
+
+
 output of rectangle
 ![image](https://github.com/Ankitamishra9654/nand2tetris-Part1/assets/136074376/1db01303-2538-49a5-afce-8b64fb61e7ed)
 
